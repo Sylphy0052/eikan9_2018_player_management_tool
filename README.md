@@ -1,0 +1,2 @@
+# eikan9_2018_player_management_tool
+パワプロ2018 栄冠ナイン 選手管理ツール
